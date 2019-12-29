@@ -1,0 +1,13 @@
+#template {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.container1 {
+    float: left;
+    margin: 10px;
+}
+
+.container1 .card {
+    height: 600px !important;
+}
